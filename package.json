@@ -1,0 +1,17 @@
+{
+  "name": "test-non-regression",
+  "version": "1.0.0",
+  "description": "",
+  "main": "math.js",
+  "scripts": {
+  "test": "jest --coverage",
+  "test:coverage": "jest --coverage"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "jest": "^30.0.4"
+  }
+}
